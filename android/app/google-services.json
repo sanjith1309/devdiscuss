@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257399228421",
+    "project_id": "diss-8de2e",
+    "storage_bucket": "diss-8de2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257399228421:android:df771c9eca9c7cbf48f46c",
+        "android_client_info": {
+          "package_name": "com.example.diss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOfcEdWe-7AcLrZVEbfCP8yQNrk5Jv3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
